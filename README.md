@@ -19,7 +19,7 @@ Ask questions in plain English. AI generates SQL. Get answers instantly.
 - "Show me average mood by sleep quality"
 - "Which weather has the highest stress level?"
 - "Average sleep hours by diet quality"
-
+# 🔥 LIVE DEMO: [Click Here to Try the App](https://jwinyev3u8kksvhcxmiyb7.streamlit.app)
 ## Run Locally
 ```bash
 pip install -r requirements.txt
